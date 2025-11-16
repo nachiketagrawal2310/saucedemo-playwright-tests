@@ -11,6 +11,12 @@ The tests are written using <strong>Playwright</strong> in <strong>JavaScript</s
 
 <p><strong>URL:</strong> <a href="https://www.saucedemo.com/" target="_blank">https://www.saucedemo.com/</a></p>
 
+<p><strong>About SauceDemo:</strong></p>
+<p>
+SauceDemo is a demo e-commerce web application designed for testing purposes. It features a catalog of products, a shopping cart, and a login system with various types of users, including standard, locked-out, and problem users.  
+It is widely used for learning and practicing automated testing with tools like Playwright, Selenium, and Cypress.
+</p>
+
 <p><strong>Test Users:</strong></p>
 <ul>
   <li><strong>standard_user</strong> – Successful login</li>
